@@ -1,5 +1,5 @@
-# component-creater
+# VarDumper
 
 ```
-composer create-project hyperf/component-creater
+composer require gemini/var-dumper
 ```
